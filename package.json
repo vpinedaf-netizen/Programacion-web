@@ -1,0 +1,25 @@
+{
+  "name": "js-dom",
+  "version": "1.0.0",
+  "description": "Guía para aprender a manipular páginas web con JavaScript: cómo el navegador representa el HTML (el DOM), cómo leerlo y modificarlo, cómo reaccionar a lo que hace el usuario (eventos) y cómo pintar datos que llegan de un servidor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraGarciaLg/js-dom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LauraGarciaLg/js-dom/issues"
+  },
+  "homepage": "https://github.com/LauraGarciaLg/js-dom#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
